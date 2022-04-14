@@ -1,1 +1,15 @@
+1. pwd
 
+2. git init
+
+3. git config user.name ""
+
+4. git config user.email ""
+
+// 5. git commit -m "first commit"
+
+6. git remote add origin http://github_file_upload.git
+
+7. git remote set-url origin https://user:____token____@github.com/user/repo.git
+
+8. git push origin master
