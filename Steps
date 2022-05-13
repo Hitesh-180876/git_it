@@ -13,3 +13,12 @@
 7. git remote set-url origin https://user:____token____@github.com/user/repo.git
 
 8. git push origin master
+
+
+
+
+
+
+
+git remote set-url origin git@github.com:Hitesh-180876/Project-Book-Management-System-Using-Java-Spring-Boot.git
+git push origin master
